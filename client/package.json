@@ -67,7 +67,7 @@
     "koa-webpack-hot-middleware": "1.0.3",
     "opn": "5.4.0",
     "optimize-css-assets-webpack-plugin": "5.0.1",
-    "postcss": "7.0.6",
+    "postcss": "8.2.10",
     "postcss-loader": "3.0.0",
     "postcss-pxtorem": "4.0.1",
     "progressbar.js": "^1.0.1",
